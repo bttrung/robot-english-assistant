@@ -6,6 +6,10 @@
 This project consists of 3 phases:
 
 ### Phase 1: From mp3 -> generate text file (lyrics)
+Techstack: Java, SpringBoot, Google Sppech API
+
 ### Phase 2: From lyrics -> generate images
+
+
 ### Phase 3: From mp3 and images -> generate video
 
