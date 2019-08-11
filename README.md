@@ -22,5 +22,5 @@ Techstack: Google Speech Recognition, Deep Learning
 
 
 ## Architecture Diagram
+![alt text](https://github.com/bttrung/speak-and-see/blob/master/images/Robot%20English%20Assistant%20Architecture.png?raw=true)
 
-![Alt](images/Robot English Assistant Architecture.png)
