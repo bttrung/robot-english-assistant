@@ -8,7 +8,7 @@ The purpose of this tool is to motivate student to speak English: they can pract
 ---
 
 ## Input: speak via mic, in English, 
-## Output: image(s) related to what speaks
+## Output: generated image(s) related to what speaks
 
 ---
 This project consists of 3 phases:
