@@ -13,10 +13,11 @@ The purpose of this tool is to motivate student to speak English: they can pract
 ---
 This project consists of 3 phases:
 
-### [In Progress]Phase 1: From speak input file -> generate to text
+### [Done]Phase 1: From speak input file -> generate to text
 Techstack: Google Speech Recognition, Deep Learning
+Code: https://github.com/bttrung/speak-and-see/blob/master/%5BUS_1%5D_Speech_Recognition_with_google.ipynb
 
-### Phase 2: From text -> generate images
+### [In Progress]Phase 2: From text -> generate images
 
 ### Phase 3: show images to the webpage 
 
