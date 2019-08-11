@@ -23,4 +23,4 @@ Techstack: Google Speech Recognition, Deep Learning
 
 ## Architecture Diagram
 
-https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Robot%20English%20Assistant%20Architecture#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1AfRT-UFHVoYkib4GS-ugWD1_dT2y9Vf8%26export%3Ddownload
+![Alt](images/Robot English Assistant Architecture.png)
