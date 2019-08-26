@@ -1,3 +1,15 @@
+The purpose of the project is to build a Robot which can assist student to study English easier and faster.
+
+How it can help? The Robot will he help you to practice English based on 3 principles:
+
+Listening: Robot will speak aloud to you for anything it see in your daily routine. By listening to Robot, you will learn English and you can interact with it by starting any conversation. Repetition: By using the Robot, you have chance to practice English daily with the familiar sentences, phrases and vocabularies... Real situation: Go to the wedding you don't know how to say congrats? The Robot can help you. Your friend ask for direction to the school? Robot also can help... and many real situation that you don't know how to speak in English, Robot can help anyway! The Robot is your assistant, your teacher, also your friend!
+
+The Robot can be install to Google Glass or Wearable devices which is always beside you to talkative with you.
+
+To extends the feature, the Robot can connect with IoT devices in your smart home, then report to you what happening when you are away. You can also control your IoT devices by talk to the Robot, something like: stop light, open window, open music...
+
+
+
 ## This repo will cover user story 1 and 2 in the main project: Robot English Assistant:  https://github.com/bttrung/robot-english-assistant/projects/1
 
 
