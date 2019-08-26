@@ -1,4 +1,4 @@
-## This repo will cover user story 1 and 2 in the main project: Robot English Assistant:  https://github.com/users/bttrung/projects/2 
+## This repo will cover user story 1 and 2 in the main project: Robot English Assistant:  https://github.com/bttrung/robot-english-assistant/projects/1
 
 
 ## Purpose: Using deep learning algorithms to generate images related to what we speak (in English, a sentence or a word)
